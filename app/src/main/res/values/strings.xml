@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quizz Culture Générale</string>
+    <string name="secondTitle">Teste ta culture</string>
+    <string name="hello_world">Bienvenue</string>
+    <string name="connexion">Veuillez vous connecter</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="motdepasse">Mot de Passe</string>
+    <string name="boutonConnexion">Se Connecter</string>
+    <string name="errorConnexion">Veuillez saisir des données de connexion</string>
+    <string name="errorIdentifiants">Données d\'identification incorrectes</string>
+    <string name="passwordadmin">admin</string>
+    <string name="usernameadmin">admin</string>
+    <string name="release_date">release_date</string>
+    <string name="title">title</string>
+    <string name="cover">cover</string>
+    <string name="editor">editor</string>
+    <string name="boutonLogout">Log out</string>
+    <string name="boutonShortGame">5 questions</string>
+    <string name="boutonMediumGame">10 questions</string>
+    <string name="boutonLongGame">20 questions</string>
+    <string name="accountName">Bonne chance pour le quizz!</string>
+    <string name="createAccount">Créer un compte</string>
+</resources>

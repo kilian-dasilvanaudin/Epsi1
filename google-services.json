@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741887729621",
+    "project_id": "epsiandroidquizz",
+    "storage_bucket": "epsiandroidquizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741887729621:android:fe931ba55f714dacf9675c",
+        "android_client_info": {
+          "package_name": "com.example.epsi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741887729621-png7tckmmpltatmb05p79av07se4r5gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVWcufDAOgwPITulVUeosCOdz23ebhCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741887729621-png7tckmmpltatmb05p79av07se4r5gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

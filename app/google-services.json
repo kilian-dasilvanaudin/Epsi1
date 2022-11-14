@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741887729621",
+    "project_id": "epsiandroidquizz",
+    "storage_bucket": "epsiandroidquizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741887729621:android:5fb77e478944fd49f9675c",
+        "android_client_info": {
+          "package_name": "com.example.epsi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741887729621-ah31785eoot0d22luleq9f33mguehebm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epsi1",
+            "certificate_hash": "1ab3ca3fbf572d3199c67cee7edec5329566d68f"
+          }
+        },
+        {
+          "client_id": "741887729621-png7tckmmpltatmb05p79av07se4r5gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVWcufDAOgwPITulVUeosCOdz23ebhCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741887729621-png7tckmmpltatmb05p79av07se4r5gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
